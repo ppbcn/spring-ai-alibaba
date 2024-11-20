@@ -8,9 +8,9 @@
         <relativePath>../../../pom.xml</relativePath>
     </parent>
 
-    <artifactId>spring-ai-alibaba-starter-time</artifactId>
+    <artifactId>time-plugin-starter</artifactId>
     <packaging>jar</packaging>
-    <name>Spring Ai Alibaba Starter Time</name>
+    <name>Time Plugin Starter</name>
     <url>https://github.com/alibaba/spring-ai-alibaba</url>
 
     <dependencies>

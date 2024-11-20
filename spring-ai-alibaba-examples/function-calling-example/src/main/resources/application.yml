@@ -4,4 +4,4 @@ spring:
 
   ai:
     dashscope:
-      api-key: ${AI_DASHSCOPE_API_KEY}
+      api-key: sk-4606fcc08c0f4c5a8384c61c6da9ecff
